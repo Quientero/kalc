@@ -10,7 +10,5 @@ public class kalc {
     public long multiply(long first, long second) {
         return first * second;
     }
-    public long divide(long first, long second) {
-        return first / second;
-    }
+    
 }
